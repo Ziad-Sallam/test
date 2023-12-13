@@ -2,5 +2,5 @@
 
 int main()
 {
-    prinf("Hello");
+    printf("%i", 1+4);
 }
